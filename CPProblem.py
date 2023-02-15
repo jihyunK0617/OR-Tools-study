@@ -19,4 +19,11 @@ model.Maximize(2*x + 2*y + 3*z)
 solver = cp_model.CpSolver()
 status = solver.Solve(model)
 
-#
+# Display the solution
+if status == cp_model.OPTIMAL or status == cp_model.FEASIBLE:
+    print(f'Maximum of objective function: {solver.ObjectiveValue()}\n')
+    print(f'x = {solver.Value(x)}')
+    print(f'y = {solver.Value(y)}')
+    print(f'z = {solver.Value(z)}')
+else:
+    print('No solution found.')
