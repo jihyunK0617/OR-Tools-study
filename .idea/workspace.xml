@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77e9a5f9-5b0c-4b40-a22e-9ad3c95a0645" name="Changes" comment="" />
+    <list default="true" id="77e9a5f9-5b0c-4b40-a22e-9ad3c95a0645" name="Changes" comment="self studing during last week" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LlrXy4tvxD17xgDiliNFZMBy32" />
   <component name="ProjectViewState">
